@@ -1,0 +1,43 @@
+Shapes:
+Name: disk1
+Type: rectangle
+Corner: (190.0,180.0), Width: 20.0, Height: 30.0, Color: (0.47328363347332925,49.84621927142143,90.44099137187004)
+Appears at t=0.1
+Disappears at t=15.1
+
+Name: disk2
+Type: rectangle
+Corner: (167.5,210.0), Width: 65.0, Height: 30.0, Color: (6.584908431395888,247.14559346437454,41.802370101213455)
+Appears at t=0.1
+Disappears at t=15.1
+
+Name: disk3
+Type: rectangle
+Corner: (145.0,240.0), Width: 110.0, Height: 30.0, Color: (11.344267521053553,45.74136793613434,175.317120552063)
+Appears at t=0.1
+Disappears at t=15.1
+
+Shape disk1 moves from (190.0,180.0) to (190.0,50.0) from t=1.3 to t=1.8
+Shape disk1 moves from (190.0,50.0) to (490.0,50.0) from t=1.8 to t=2.3
+Shape disk1 moves from (490.0,50.0) to (490.0,240.0) from t=2.4 to t=2.9
+Shape disk2 moves from (167.5,210.0) to (167.5,50.0) from t=2.9 to t=3.4
+Shape disk2 moves from (167.5,50.0) to (317.5,50.0) from t=3.4 to t=3.9
+Shape disk2 moves from (317.5,50.0) to (317.5,240.0) from t=4.0 to t=4.5
+Shape disk1 moves from (490.0,240.0) to (490.0,50.0) from t=4.5 to t=5.0
+Shape disk1 moves from (490.0,50.0) to (340.0,50.0) from t=5.0 to t=5.5
+Shape disk1 moves from (340.0,50.0) to (340.0,210.0) from t=5.6 to t=6.1
+Shape disk3 moves from (145.0,240.0) to (145.0,50.0) from t=6.1 to t=6.6
+Shape disk3 moves from (145.0,50.0) to (445.0,50.0) from t=6.6 to t=7.1
+Shape disk3 moves from (445.0,50.0) to (445.0,240.0) from t=7.2 to t=7.7
+Shape disk3 changes color from (11.344267521053553,45.74136793613434,175.317120552063) to (0.0,255.0,0.0) from t=7.7 to t=8.1
+Shape disk1 moves from (340.0,210.0) to (340.0,50.0) from t=7.7 to t=8.2
+Shape disk1 moves from (340.0,50.0) to (190.0,50.0) from t=8.2 to t=8.7
+Shape disk1 moves from (190.0,50.0) to (190.0,240.0) from t=8.8 to t=9.3
+Shape disk2 moves from (317.5,240.0) to (317.5,50.0) from t=9.3 to t=9.8
+Shape disk2 moves from (317.5,50.0) to (467.5,50.0) from t=9.8 to t=10.3
+Shape disk2 moves from (467.5,50.0) to (467.5,210.0) from t=10.4 to t=10.9
+Shape disk2 changes color from (6.584908431395888,247.14559346437454,41.802370101213455) to (0.0,255.0,0.0) from t=10.9 to t=11.3
+Shape disk1 moves from (190.0,240.0) to (190.0,50.0) from t=10.9 to t=11.4
+Shape disk1 moves from (190.0,50.0) to (490.0,50.0) from t=11.4 to t=11.9
+Shape disk1 moves from (490.0,50.0) to (490.0,180.0) from t=12.0 to t=12.5
+Shape disk1 changes color from (0.47328363347332925,49.84621927142143,90.44099137187004) to (0.0,255.0,0.0) from t=12.5 to t=12.9
